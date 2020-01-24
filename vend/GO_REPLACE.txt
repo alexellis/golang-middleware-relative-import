@@ -1,0 +1,1 @@
+replace github.com/alexellis/vend/vend/handlers => ./function/handlers
