@@ -1,3 +1,3 @@
-module github.com/alexellis/vend/vend/handlers
+module handlers
 
 go 1.13
