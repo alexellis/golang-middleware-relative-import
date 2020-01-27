@@ -14,3 +14,7 @@ functions:
     handler: ./no-modules
     image: no-modules:latest
 
+
+configuration:	
+  templates:	
+    - name: golang-middleware
