@@ -9,9 +9,6 @@ functions:
     handler: ./vend
     image: vend:latest
 
-configuration:
-  templates:
-    - name: golang-middleware
   no-modules:
     lang: golang-middleware
     handler: ./no-modules
